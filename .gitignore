@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# To commit 
+# git add .
+# git commit -m "Describe your change"
+# git push

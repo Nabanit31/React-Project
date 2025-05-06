@@ -35,8 +35,8 @@ const Header = () => {
     }
   return (
     <>
-    <div>
-     <h3 className="text-3xl font-bold underline" >Number is: {num}</h3>
+    <div className='sections'>
+     <h3 className="text-3xl font-bold " >Number is: {num}</h3>
      <button className='active:scale-90'onClick={Increment}>Increment</button>
      <button className='active:scale-90'onClick={Decrement}>Decrement</button>
      <div>
